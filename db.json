@@ -1,1 +1,9 @@
 
+{
+	"login": {
+		"UserName": "zhangsan",
+		"PassWord": "123456",
+		"NickName": "小张",
+		"HeadImg": "http://attach.bbs.miui.com/forum/201805/11/190553u33dozvebjtog245.jpg"
+	}
+}
